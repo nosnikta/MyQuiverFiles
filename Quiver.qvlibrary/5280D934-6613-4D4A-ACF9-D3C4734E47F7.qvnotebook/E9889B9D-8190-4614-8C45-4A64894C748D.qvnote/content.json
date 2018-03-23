@@ -1,0 +1,9 @@
+{
+  "title": "Unity Short Cuts",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<ul><li>Hand tool - Q</li><li>Move tool - W</li><li>Rotate tool - E</li><li>Scale tool - R</li><li>Rect tool - T</li><li>Move, Rotate, Scale tool - Y</li></ul>"
+    }
+  ]
+}
