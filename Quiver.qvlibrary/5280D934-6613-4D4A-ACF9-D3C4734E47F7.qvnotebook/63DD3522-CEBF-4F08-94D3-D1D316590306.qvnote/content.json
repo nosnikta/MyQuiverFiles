@@ -1,0 +1,21 @@
+{
+  "title": "Unity User guide",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<div><b>Adding Materials to Surfaces</b><br></div><ol><li>Create a Material by <b><font color=\"#323232\" style=\"background-color: rgb(254, 250, 0);\">Right Clicking &gt; Create &gt; Material</font>.</b></li><li>Bring the image you want to use into Unity by simply dragging and dropping the image from the file location into the <b>Assets</b> window in Unity.</li><li>From inside Unity, drag the newly added image from the Assets folder onto the <b><font color=\"#323232\" style=\"background-color: rgb(254, 250, 0);\">Main Map &gt; Albedo</font></b> window, make sure you have the Material you want to add the image to or you wont see the Main Map section in the <b>Inspector Window.</b></li></ol><div><hr></div>"
+    },
+    {
+      "type": "text",
+      "data": "<div><b>Adding Life to the Ball&nbsp;<br></b></div>"
+    },
+    {
+      "type": "text",
+      "data": "Select the Ball, in the Inspector click the <b>Add Component</b> button This will give will give you options to select <b><font color=\"#323232\" style=\"background-color: rgb(254, 250, 0);\">Physics /&gt; Rigidbody</font>. </b>Play the click and you will see the ball following the laws of gravity.<div></div><div><div><hr></div></div>"
+    },
+    {
+      "type": "text",
+      "data": "<b>Adding ball Scipt to the ball</b><div>Click to select the ball, in the Inspector tool/window click on the <b>Add Component</b> button search for the name of the Script you want to add, the alternative ways are to drag the Script into the Inspector window, or drag the Script onto the element(the ball) in the Hierarchy window.</div>"
+    }
+  ]
+}
