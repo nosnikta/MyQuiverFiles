@@ -1,0 +1,13 @@
+{
+  "title": "Assignment 2",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<p style=\"font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, serif; padding: 0.4em; border: 0px; outline: 0px; font-size: 19.3686px; line-height: 1.2; max-width: 100%; color: rgb(0, 0, 0); font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); text-shadow: none !important; margin: 0.5em 0px !important;\"><b style=\"text-shadow: none !important; margin: 0px !important;\">Statement</b>: The idea of Agile projects needing “self-organised teams” indicates that the people involved in Agile have a greater responsibility for their own contribution to the project. This implies that they must make more decisions within the project and be more accountable for them compared to traditional waterfall methodologies. This therefore means that in Agile, some actions and responsibilities that were traditionally held closely within Project Management end up delegated and distributed throughout the entire project delivery team. Thus, the whole team becomes part of the “project management”.</p><div><br></div>"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>Agile projects need to be “Agile”, so for the Agile methodologies to work correctly they need to have the option to piviot when required, make changes during development sessions without the need to get preapproval from a management structure. For Agile to really work there is a requirement to have all the participants including customers willing to accept responsiblity for their part of the project. &nbsp;For instance in the Agile Management Framework the phase Explore wouldnt work without the abillity to be self managed, be able to try new techniques or new technologies.</li><li>Agile frameworks like Scrum use the customer in a really active role, they require fast feedback loops, and constant feedback from customers and end users throughout the entire production. This means the team and the customer must make more descisions more ofter to ensure the project is developer in time with all the required features. The difference is that a Agile framework is used for software development generally so the ability to transition when required is pivitol, whereas in the production of a bridge for instance, you dont want agile change, everything needs to be carefully planned without the risk of failing fast, which is one of Agiles great benefits.&nbsp;</li><li>Scrum teams are set up to allow the Core team to make most of the nessessy decisions, with advice offered by the Scrum Master and Project Leaders manage the sprinits and the Project Owner help to look after the Customer, this allow&nbsp;</li></ul>"
+    }
+  ]
+}

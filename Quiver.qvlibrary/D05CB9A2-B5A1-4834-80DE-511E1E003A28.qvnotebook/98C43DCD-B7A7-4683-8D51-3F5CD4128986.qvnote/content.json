@@ -1,0 +1,13 @@
+{
+  "title": "University Stuff",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "###This Week\n|Mon|Tue|Wed|Thu|Fri|Sat|Sun|\n|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|\n|529 - Lect 2 P2|529 - Lect 3 P1 |529 - Lect 3 P2|529 - Lect 4 Part 1 |529 - Lect 4 P2 |529 - Lect 5 P1 |529 - Lect 5 P2 |\n|518 - Lect Rec 3A |529 - Ch 2 - Learning 2D Gaming|529 - Ch 3 - Learning 2D Gaming| 529 - Ch 4 - Learning 2D Gaming|529 - Ch 5 - Learning 2D Gaming | | | |\n| |518 - Lean Agile Mindset |518 - Lect Rec 3B | 518 - Lect Rec 3C|518 - Lect Rec 4A | | | |\n| |518 - Lean Agile Leader | | | | | | |"
+    },
+    {
+      "type": "markdown",
+      "data": "###Catch Up\n| Task | Task Type | Due Date|Completed|Est Time|\n| ------ |:---------:| :-----:|:----:|:---:|\n|ITE529 Lecture 2|Video|11/03/18|No|2.0|\n|ITE529 Lecture 3|Video|18/03/18|No|2.0|\n|ITE529 Lecture 4|Video|25/03/18|No|2.0|\n|ITE529 Lecture 5|Video|02/04/18|No|2.0|\n|ITE529 Chapter 2 - Learning 2D Gaming|Readings|13/03/18|No|1.0|\n|ITE529 Chapter 3 - Learning 2D Gaming|Readings|15/03/18|No|1.0|\n|ITE529 Chapter 4 - Learning 2D Gaming|Readings|15/03/18|No|1.0|\n|ITE529 Chapter 5 - Learning 2D Gaming|Readings|13/03/18|No|1.0|\n||||||\n|ITE518 Lecture Recording 3A|Audio|18/03/18|Yes|1.0|\n|ITE518 Lecture Recording 3B|Audio|18/03/18|No|1.0|\n|ITE518 Lecture Recording 3C|Audio|18/03/18|No|1.0|\n|ITE518 Readings Chapter 2 - Lean Agile Mindset|Reading|18/03/18|No|1.0|\n|ITE518 Readings Chapter 2 - Lean Agile Leader|Reading|18/03/18|No|1.0|\n|ITE518 Complete Weekly Activities|Writing|18/03/18|No|2.0|\n|ITE518 Lecture Recording 4A|Audio|25/03/18|No|1.0|\n|ITE518 Lecture Recording 4B|Audio|25/03/18|No|1.0|\n|ITE518 Complete Weekly Activities|Writing|25/03/18|No|2.0|\n|ITE518 Readings Chapter 5 - Implementing the Scrum Role(The Srum field guide)|Reading|25/03/18|No|1.0|\n|ITE518 Readings Chapter 6 - The case for a Full-Time ScrumMaster(The Srum field guide)|Reading|25/03/18|No|1.0|\n|ITE518 Lecture Recording 5A|Audio|01/04/18|No|1.0|\n|ITE518 Lecture Recording 5B|Audio|01/04/18|No|1.0|\n|ITE518 Lecture Recording 5C|Audio|01/04/18|No|1.0|\n|ITE518 Readings Chapter 4 - Determining Team Velocity(The Srum field guide)|Reading|01/04/18|No|1.0|\n|ITE518 Readings Chapter 6 - Determining Sprint Length(The Srum field guide)|Reading|01/04/18|No|1.0|\n|ITE518 Readings Chapter 7 - How do we know we are done(The Srum field guide)|Reading|01/04/18|No|1.0|\n|ITE518 Readings Chapter 10 - Core Hours(The Srum field guide)|Reading|01/04/18|No|1.0|\n|ITE518 Readings Chapter 11 - Release Planning(The Srum field guide)|Reading|01/04/18|No|1.0|\n|ITE518 Complete Weekly Activities|Writing|01/04/18|No|2.0|\n"
+    }
+  ]
+}
